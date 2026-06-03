@@ -1,2 +1,2 @@
 # FUTURE_CS_02
-A cybersecurity awareness project for detecting, analyzing, and preventing phishing email attacks in real-world environments.
+Phishing Email Detection & Awareness System – cybersecurity analysis project focused on identifying phishing emails, analyzing headers, and creating awareness guidelines.
